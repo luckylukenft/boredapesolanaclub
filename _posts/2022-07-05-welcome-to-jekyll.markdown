@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Bored Ape Solana Club Community blog!"
 date:   2022-07-05 20:39:04 +0200
 categories: jekyll update
 ---

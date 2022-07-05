@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   All NFT holder belongs to the BASCDAO community and can enjoy membership benefits.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.boredapesolanaclub.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @luckynftz
+twitter_username: luckynftz
 github_username:  luckylukenft
 
 # Build settings
