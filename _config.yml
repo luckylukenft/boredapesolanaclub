@@ -21,10 +21,9 @@
 title: Bored Ape Solana Club
 email: lucky@boredapesolanaclub.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
+  Bored Ape Solana Club is an NFT (non-fungible token) deployed in the Solana Blockchain. 
+  All NFT holder belongs to the BASCDAO community and can enjoy membership benefits.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.boredapesolanaclub.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @luckynftz
 github_username:  luckylukenft
