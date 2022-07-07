@@ -11,15 +11,15 @@ layout: home
 The [Bored Ape Solana Club][bored-ape-solana-club] is an NFT (non-fungible token) collection 
 of 6001 Bored Apes that are stored in the Solana blockchain. 
 [Solana][solana] is one of the fastest blockchain in the world, and it has
-low transaction fees, this why Solana fits perfectly in the NFT space.
+low transaction fees, this is why Solana chain fits perfectly in the NFT space.
 
 Each Solana Bored Ape has a token id and different attributes 
 that make each Bored Ape unique. You can see all attributes and tokens of the Bored Apes in the
 [Bored Ape Solana Club Rarity Tool][rarity-tool] developed by community members. 
 All NFT's has been drawn handmade and each owner has ownership rights of his Bored Apes.
 One of the main targets of this project is to provide real life utilities to members, 
-for instance the giveaway every day: diners, gas, adult beverages, theater tickets, 
-sushi, pizza, massages, random prizes, self-care, etc.
+for instance, the DAO ADMINS giveaway every day: diners, reimburse gas ticket to fill your tank, adult beverages, theater tickets, 
+sushi, pizza, massages, self-care items, random prizes, etc.
 
 There is also a [Bored Ape Frame Maker][frame-maker] where you can download your membership accreditation by 
 selecting your Bored Ape Solana club token id.
